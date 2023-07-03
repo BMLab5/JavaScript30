@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿
+=======
+﻿Test push
+
+>>>>>>> 7aa7ceaf13a230261c2b3f3db8f2fee6f96acec3
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
